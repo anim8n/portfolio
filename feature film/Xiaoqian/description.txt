@@ -1,0 +1,1 @@
+Responsible for the full process of producing two-dimensional clip animations in the whole film.
